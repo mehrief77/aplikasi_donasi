@@ -1,0 +1,31 @@
+#bodi{
+	/*background-image: url('Kerjasama-Usaha.jpg'); */
+	/* background-image: url('images_wo.jpg'); */
+	/* background-image: url('login_indomart.jpg'); */
+	background-image: url('IMG20220117132412.jpg');
+	background-repeat: round;
+    
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+p {
+    color: white;
+}
+span {
+    color: white;
+}
+li {
+    color: white;
+}
+a {
+    color: white;
+}
